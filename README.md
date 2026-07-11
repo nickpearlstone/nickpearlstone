@@ -19,4 +19,4 @@ Incoming CS major at Cornell Engineering. Previously SWE intern @ Stauder Techno
 
 ### Contact
 
-[LinkedIn]([https://www.linkedin.com/in/nick-p-387048361](https://www.linkedin.com/in/nickpearlstone/))
+[LinkedIn](https://www.linkedin.com/in/nickpearlstone/)
