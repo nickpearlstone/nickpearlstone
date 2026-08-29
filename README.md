@@ -1,5 +1,6 @@
 # Nick Pearlstone
-Incoming CS major at Cornell Engineering. Previously SWE intern @ Stauder Technologies.\n
+Incoming CS major at Cornell Engineering. Previously SWE intern @ Stauder Technologies.  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
