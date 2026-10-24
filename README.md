@@ -9,7 +9,6 @@ CS major at Cornell Engineering.
 ### Current Projects:
 - [Hydro-Knight](https://github.com/nickpearlstone/Hydro-Knight) — pose-based drowning detection
 ### Previous projects:
-- [NASA-ML](https://github.com/nickpearlstone/NASA-ML) — hazardous asteroid classifier in PyTorch
 - [Number-Identification-NN](https://github.com/nickpearlstone/Number-Identification-NN) — MNIST neural net from scratch in NumPy
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/nick-p-387048361)
