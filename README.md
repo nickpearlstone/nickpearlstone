@@ -6,9 +6,7 @@ CS major at Cornell Engineering.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Current Projects:
+### Current Project:
 - [Hydro-Knight](https://github.com/nickpearlstone/Hydro-Knight) — pose-based drowning detection
-### Previous projects:
-- [Number-Identification-NN](https://github.com/nickpearlstone/Number-Identification-NN) — MNIST neural net from scratch in NumPy
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/nick-p-387048361)
