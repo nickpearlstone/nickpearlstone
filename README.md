@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/great-wave.gif" alt="ASCII-art animation of Hokusai's Great Wave at night, crashing and rising again" width="100%">
+</p>
+
 # Nick Pearlstone
 CS major at Cornell Engineering.
 
