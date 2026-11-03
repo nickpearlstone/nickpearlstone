@@ -7,6 +7,6 @@ CS major at Cornell Engineering.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Current Project:
-- [Hydro-Knight](https://github.com/nickpearlstone/Hydro-Knight) — pose-based drowning detection
+[Hydro-Knight](https://github.com/nickpearlstone/Hydro-Knight) — pose-based drowning detection
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/nick-p-387048361)
