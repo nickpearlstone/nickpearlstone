@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/great-wave.gif" alt="ASCII-art animation of Hokusai's Great Wave at night, crashing and rising again" width="100%">
+  <img src="assets/rainy-park.gif" alt="Animated ASCII-art scene of a mysterious figure beside a glowing streetlamp in a rainy city park" width="100%">
 </p>
 
 # Nick Pearlstone
